@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a data science graduate student with a strong foundation in programming,<br>data analysis, and machine learning. With a proven track record in leveraging data-driven insights<br>to optimize processes and solve complex problems, I excel at identifying opportunities for improvement <br>and driving impactful results. My professional experience includes developing predictive models, enhancing <br>decision-making through visualization tools, and streamlining workflows with automation. Passionate <br>about continuous learning and collaboration, I aim to create innovative solutions that improve <br>efficiency and foster growth.
+I’m a Data Engineer & Analyst with a passion for building scalable data systems and turning raw data into actionable insights. With hands-on experience in Python, SQL, and AWS, I specialize in ETL pipelines, workflow automation, and business intelligence.
+
+Currently pursuing my Master’s in Data Science at ASU (GPA: 3.74), I’ve built production-ready pipelines using Glue, PySpark, and Airflow, and improved fraud detection models with ML. At Cognizant, I automated workflows that cut manual effort by 85% and boosted defect detection by 35%.
+
 
 
 ## 🌐 Socials:
