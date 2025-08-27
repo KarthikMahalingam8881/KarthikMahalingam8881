@@ -1,7 +1,13 @@
 # 💫 About Me:
-Hi, I'm **Karthik Mahalingam**, a Data Engineer passionate about building scalable, production-grade data systems that drive real business value.<br><br>🎯 I specialize in:<br>- Designing cloud-based ETL pipelines with **AWS (S3, Glue, Redshift)**<br>- Automating workflows using **Apache Airflow**<br>- Engineering clean, modular code in **Python & SQL**<br><br>🚀 Recent highlights:<br>- Migrated ML pipelines from notebooks to **modular, cloud-native workflows**<br>- Built end-to-end data pipelines that move, clean, and store data from **S3 to PostgreSQL** using **Docker + SQLAlchemy**<br>- Contributed to an open-source **Redshift warehouse project**, optimizing queries and schema for performance<br><br>🎓 I’m currently pursuing a Master’s in **Data Science, Analytics and Engineering @ ASU**, and actively looking for **Data Engineering / Analytics Engineering/ Data Analyst** internships or new grad roles.
+Software & Data Engineer with expertise in Python, SQL, AWS, and backend systems. I build scalable pipelines and automation workflows that turn raw data into high-performance, insight-ready assets. Proficient in backend development, data structures, and algorithms, enabling me to design systems that are both scalable and efficient.
 
+Key Highlights:
+• Designed an AWS-based review detection system processing 75K+ reviews, enabling sentiment analytics via QuickSight.
+• Built ETL pipelines cutting processing time by 70% and implemented automated QA reducing manual testing by 85%.
+• Optimized Redshift performance with DISTKEY/SORTKEY tuning, improving query speed by 70%.
+• Resolved complex production issues like schema drift, OOM(out-of-memory errors) errors, and batch orchestration failures.
 
+I’m currently pursuing a Master’s in Data Science, Analytics and Engineering @ ASU (Dec '25 Grad), and actively looking for Software Developer/ Data Engineering / Analytics Engineering/ Python Developer/ Data Analyst internships or new grad roles.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-mahalingam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmahali2@asu.edu) 
 
