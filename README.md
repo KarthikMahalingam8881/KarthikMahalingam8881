@@ -1,14 +1,19 @@
 # 💫 About Me:
 Software & Data Engineer with expertise in Python, SQL, AWS, and backend systems. I build scalable pipelines and automation workflows that turn raw data into high-performance, insight-ready assets. Proficient in backend development, data structures, and algorithms, enabling me to design systems that are both scalable and efficient.
 
-Key Highlights:
+## Key Highlights:
+
 • Designed an AWS-based review detection system processing 75K+ reviews, enabling sentiment analytics via QuickSight.
+
 • Built ETL pipelines cutting processing time by 70% and implemented automated QA reducing manual testing by 85%.
+
 • Optimized Redshift performance with DISTKEY/SORTKEY tuning, improving query speed by 70%.
+
 • Resolved complex production issues like schema drift, OOM(out-of-memory errors) errors, and batch orchestration failures.
 
-I’m currently pursuing a Master’s in Data Science, Analytics and Engineering @ ASU (Dec '25 Grad), and actively looking for Software Developer/ Data Engineering / Analytics Engineering/ Python Developer/ Data Analyst internships or new grad roles.
-## 🌐 Socials:
+I’m currently pursuing a Master’s in Data Science, Analytics and Engineering @ ASU (Dec '25 Grad), and actively looking for Software Developer/ Data Engineering/ Data Analyst internships or new grad roles.
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-mahalingam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmahali2@asu.edu) 
 
 # 💻 Tech Stack:
